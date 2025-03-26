@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "postinstall": "npx --no-install esbuild"   
+    "preview": "vite preview"   
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
